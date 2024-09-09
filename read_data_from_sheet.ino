@@ -2,9 +2,9 @@
 #include <HTTPClient.h>
 
 //---------------------------------------------------------------------
-const char * ssid = "MBL - IOT";
-const char * password = "iotpassword";
-String GOOGLE_SCRIPT_ID = "AKfycbwRxpJirqYMR1dPFakeA5S270iLShhXznUUIEJ9k3HbMzC9PZ_pb03NZD6xX9DLVOsO";
+const char * ssid = "ssid";
+const char * password = "password";
+String GOOGLE_SCRIPT_ID = "enter_script_id";
 //---------------------------------------------------------------------
 
 //-----------------------------
